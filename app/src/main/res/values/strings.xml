@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">연성 통합 갤러리 </string>
+
+    <string name="gtitle01">별 헤는 밤</string>
+    <string name="gauthor01">고흐</string>
+    <string name="picture01">starry_night</string>
+
+
+    <string name="gtitle02">차와 함께하는 일상</string>
+    <string name="gauthor02">폴 세잔</string>
+    <string name="picture02">still_life_with_kettle</string>
+
+
+    <string name="atitle01">학교종이</string>
+    <string name="audio01">schoolbell</string>
+    <string name="aimg01">img_schoolbell</string>
+    <string name="body01">
+    학교종이 땡땡땡 어서 모이자\n      선생님이 우리를 기다리신다\n
+    학교종이 땡땡땡 어서 모이자\n       사이좋게 오늘도 공부 잘 하자\n
+    </string>
+
+
+    <string name="atitle02">코끼리아저씨</string>
+    <string name="audio02">elephant</string>
+    <string name="aimg02">img_elephant</string>
+    <string name="body02">
+    코끼리 아저씨는 코가 손이래\n   과자를 주면은 코로 받지요\n
+    코끼리 아저씨는 소방수래요\n  불 나면 빨리 와 모셔가지요\n
+    코끼리 아저씨는 코가 손이래\n   과자를 주면은 코로 받지요\n
+    코끼리 아저씨는 소방수래요\n   불 나면 빨리 와 모셔가지요\n
+    </string>
+
+    <string name="vtitle01">밤의 분수대</string>
+    <string name="video01">fountain_night</string>
+
+    <string name="vtitle02">길 위의 폭포</string>
+    <string name="video02">waterfall_street</string>
+</resources>
