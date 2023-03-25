@@ -3,13 +3,52 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp">
+    android:padding="16dp"
+
+    android:clickable="true"
+    android:onClick="goBack"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gtitle"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#61380B"
+        android:background="@drawable/shape_title"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gauthor"
+        android:textSize="17sp"
+        android:textStyle="italic"
+        android:textColor="#22741C"
+        android:layout_marginBottom="20dp"
+        android:gravity="right"/>
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:maxWidth="200dp"
-        android:maxHeight="200dp"
-        android:src="@drawable/starry_night"/>
+        android:minHeight="200dp"
+        android:adjustViewBounds="true"
+        android:layout_gravity="center"
+        android:id="@+id/picture"
+        android:layout_marginBottom="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:textColor="#61380B"
+        android:id="@+id/gbody"/>
+
+
+
+
 
 </LinearLayout>

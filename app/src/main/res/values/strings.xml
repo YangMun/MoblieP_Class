@@ -1,14 +1,26 @@
 <resources>
-    <string name="app_name">연성 통합 갤러리 </string>
+    <string name="app_name">다양한 데이터 출력 aPP </string>
 
     <string name="gtitle01">별 헤는 밤</string>
     <string name="gauthor01">고흐</string>
     <string name="picture01">starry_night</string>
+    <string name="gbody01">
+        《별이 빛나는 밤》(영어: The Starry Night)은 네덜란드의 화가 빈센트 반 고흐의
+        가장 널리 알려진 작품이자 정신병을 앓고 있을 당시 고흐가 그린 그림이다.
+        1889년 생레미의 정신병원에서 고흐는 정신적 질환으로 인한 고통을 떠올려
+        그림 속의 소용돌이로 묘사했다.
+    </string>
 
-
-    <string name="gtitle02">차와 함께하는 일상</string>
+    <string name="gtitle02">일상속의 주전자</string>
     <string name="gauthor02">폴 세잔</string>
     <string name="picture02">still_life_with_kettle</string>
+    <string name="gbody02">
+        프랑스 화가. 인상주의와 플랑드르 미술에 영향을 받았다.
+        세잔의 정물화 가운데 가장 알려진 작품인 사과와 오렌지는
+        무미건조한 주제를 위대한 미술로 끌어올렸다. 말년에는
+        목욕하는 사람들처럼 몽환적으로 채색된 누드화 습작을 주로 그렸다.
+    </string>
+
 
 
     <string name="atitle01">학교종이</string>
